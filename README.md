@@ -1,7 +1,7 @@
 <h3 align="center">Violet Lobster</h3>
 
   <p align="center">
-    Solutions to [Microsofts 2020 Seasons of Serverless challenges](https://github.com/microsoft/Seasons-of-Serverless).
+    Solutions to <a href="https://github.com/microsoft/Seasons-of-Serverless">Microsofts 2020 Seasons of Serverless challenges</a>.
     <br />
     <a href="https://github.com/microsoft/Seasons-of-Serverless"><strong>Explore the docs »</strong></a>
     <br />
@@ -33,4 +33,4 @@
 [license-url]: https://github.com/errbufferoverfl/violet-lobster/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/errbufferoverfl
-[product-screenshot]: imgs/turkey-recipe.png
+[product-screenshot]: imgs/turkey-recipe.PNG
