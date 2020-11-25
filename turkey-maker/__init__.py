@@ -6,7 +6,7 @@ import azure.functions as func
 def isNumber(value_to_check: str) -> bool:
     try:
         float(value_to_check)
-    except TypeError:
+    except ValueError:
         return False
     else:
         return True
@@ -37,7 +37,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 ⏰ {math.ceil(0.06 * weight)} tablespoons thyme
 
 🌊 Brine for {math.ceil(2.4 * weight)} hours
-🍗 Roast for {math.ceil(15 * weight)} hours
+🍗 Roast for {math.ceil(15 * weight)} minutes
         """
 
         return func.HttpResponse(brine_intructions)
