@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/errbufferoverfl/violet-lobster">
-    <img src="imgs/logo.png" alt="Logo" width="80" height="80">
+    <img src="imgs/logo.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Violet Lobster</h3>
@@ -113,7 +113,19 @@ http://localhost:7071/api/turkey-maker?weight=20
 
 Expected Output:
 ```
-Pass the weight of your turkey in pounds in the query string or in the request body for your brine equation.
+Your turkey 🦃 weighs 20.0 pounds, we'd recommend using the following:
+🧂 1.0 cups of salt
+💦 13.2 gallons of water
+🍯 2.6 cups of brown sugar
+🧅 4.0 shallots
+🧄 8 cloves of garlic
+⚫ 3 tablespoons whole peppercorns
+🍒 3 tablespoons dried juniper berries
+🌿 3 tablespoons fresh rosemary
+⏰ 2 tablespoons thyme
+
+🌊 Brine for 48 hours
+🍗 Roast for 300 minutes
 ```
 
 ✔ **Valid (but boring)**
