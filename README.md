@@ -18,7 +18,7 @@
 <!-- TABLE OF CONTENTS -->
 
 * [About the Project](#about-the-project)
-  * [Solutions]{#solutions)
+  * [Solutions](#solutions)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
