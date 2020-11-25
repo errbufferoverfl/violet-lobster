@@ -7,11 +7,7 @@
 <h3 align="center">Violet Lobster</h3>
 
   <p align="center">
-<<<<<<< HEAD
     Solutions to Microsoft's 2020 Seasons of Serverless challenges.
-=======
-    Solutions to <a href="https://github.com/microsoft/Seasons-of-Serverless">Microsofts 2020 Seasons of Serverless challenges</a>.
->>>>>>> f69fb6d288d9f8b1db3908b7dfa65c76f6ddb67c
     <br />
     <a href="https://github.com/microsoft/Seasons-of-Serverless"><strong>Explore the docs »</strong></a>
     <br />
@@ -41,7 +37,7 @@ These are my soltutions to Microsoft's 2020 Seasons of Serverless challenges, ea
 
 | Week | Challenge | Solution | Screen Capture |
 |------|-----------|----------|----------------|
-| 1    | [Challenge 1: The Perfect Holiday Turkey 🦃](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md) | | <img src="imgs/turkey-recipe.PNG" alt="Image of Product" width="100">
+| 1    | [The Perfect Holiday Turkey 🦃](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md) | | <img src="imgs/turkey-recipe.PNG" alt="Image of Product" width="200">
 
 ### Built With
 <!-- BUILT WITH -->
@@ -151,25 +147,7 @@ Input:
 http://localhost:7071/api/turkey-maker?weight=aaaa
 ```
 
-<<<<<<< HEAD
 Expected Output:
 ```
 Pass the weight of your turkey in pounds in the query string or in the request body for your brine equation.
 ```
-=======
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/errbufferoverfl/violet-lobster.svg?style=flat-square
-[contributors-url]: https://github.com/errbufferoverfl/violet-lobster/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/errbufferoverfl/violet-lobster.svg?style=flat-square
-[forks-url]: https://github.com/errbufferoverfl/violet-lobster/network/members
-[stars-shield]: https://img.shields.io/github/stars/errbufferoverfl/violet-lobster.svg?style=flat-square
-[stars-url]: https://github.com/errbufferoverfl/violet-lobster/stargazers
-[issues-shield]: https://img.shields.io/github/issues/errbufferoverfl/violet-lobster.svg?style=flat-square
-[issues-url]: https://github.com/errbufferoverfl/violet-lobster/issues
-[license-shield]: https://img.shields.io/github/license/errbufferoverfl/violet-lobster.svg?style=flat-square
-[license-url]: https://github.com/errbufferoverfl/violet-lobster/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/errbufferoverfl
-[product-screenshot]: imgs/turkey-recipe.PNG
->>>>>>> f69fb6d288d9f8b1db3908b7dfa65c76f6ddb67c
