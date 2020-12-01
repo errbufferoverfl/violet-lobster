@@ -25,7 +25,7 @@ Once you have followed the installation functions in the main [README](https://g
 
 2. Append a query string using a browser or an API tool like Postman like so:
 ```sh
-http://localhost:7071/api/classify?img=ihttps://upload.wikimedia.org/wikipedia/commons/0/04/New_York_Empire_Apples.jpg
+http://localhost:7071/api/classify?img=https://upload.wikimedia.org/wikipedia/commons/0/04/New_York_Empire_Apples.jpg
 ```
 
 You should get the following response if your query was successful:
