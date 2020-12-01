@@ -34,10 +34,10 @@ These are my soltutions to Microsoft's 2020 Seasons of Serverless challenges, ea
 ### Solutions
 <!-- SOLUTIONS -->
 
-| Week | Challenge | Solution | Screen Capture |
-|------|-----------|----------|----------------|
-| 1    | [The Perfect Holiday Turkey 🦃](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md) | [Github Solution](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-01) | <img src="imgs/turkey-recipe.PNG" alt="Image of Product" width="200"> |
-| 2    | [Lovely Ladoos 💞 Demo](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-30-2020.md) | [Detecting Lovely Ladoos](https://stglovelyladoostest.z8.web.core.windows.net/) | <img src="imgs/lovely-ladoo.png" alt="Image of Product" width="200"> |
+| Week | Challenge | Solution | Screen Capture | README |
+|------|-----------|----------|----------------|--------|
+| 1    | [The Perfect Holiday Turkey 🦃](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md) | [Github Solution](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-01) | <img src="imgs/turkey-recipe.PNG" alt="Image of Product" width="200"> | [README](https://github.com/errbufferoverfl/violet-lobster/blob/main/week-01/README.md) |
+| 2    | [Lovely Ladoos 💞](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-30-2020.md) | [Detecting Lovely Ladoos Demo](https://stglovelyladoostest.z8.web.core.windows.net/) | <img src="imgs/lovely-ladoo.png" alt="Image of Product" width="200"> | [README](https://github.com/errbufferoverfl/violet-lobster/blob/main/week-02/README.md) |
 
 
 ### Built With
