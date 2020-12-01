@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br />
 <p align="center">
   <a href="https://github.com/errbufferoverfl/violet-lobster">
@@ -24,8 +25,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-  * [Expected Outputs](#expected-outputs)
-* [Acknowledgements](#acknowledgements)
 
 ## About the Project
 <!-- ABOUT THE PROJECT -->
@@ -37,8 +36,8 @@ These are my soltutions to Microsoft's 2020 Seasons of Serverless challenges, ea
 
 | Week | Challenge | Solution | Screen Capture |
 |------|-----------|----------|----------------|
-| 1    | [The Perfect Holiday Turkey 🦃](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md) | | <img src="imgs/turkey-recipe.PNG" alt="Image of Product" width="200"> |
-| 2    | [Lovely Ladoos 💞](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-30-2020.md) | [Detecting Lovely Ladoos](https://stglovelyladoostest.z8.web.core.windows.net/) | <img src="imgs/lovely-ladoo.png" alt="Image of Product" width="200"> |
+| 1    | [The Perfect Holiday Turkey 🦃](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md) | [Github Solution](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-01) | <img src="imgs/turkey-recipe.PNG" alt="Image of Product" width="200"> |
+| 2    | [Lovely Ladoos 💞 Demo](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-30-2020.md) | [Detecting Lovely Ladoos](https://stglovelyladoostest.z8.web.core.windows.net/) | <img src="imgs/lovely-ladoo.png" alt="Image of Product" width="200"> |
 
 
 ### Built With
@@ -56,6 +55,7 @@ These are my soltutions to Microsoft's 2020 Seasons of Serverless challenges, ea
 
 * Microsoft Azure Account
 * Python 3.8
+* Each project comes with a `requirements.txt` that needs to be installed as part of deploying to Azure Functions.
 
 ### Installation
 <!-- INSTALLATION -->
@@ -78,3 +78,8 @@ pip install -r requirements.txt
 ```sh
 func start
 ```
+
+## Usage
+<!-- USAGE -->
+
+Usage instructions can be found in each challenges directory.
