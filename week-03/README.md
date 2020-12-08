@@ -19,7 +19,7 @@ Adana kebabı or 'kebab' is a traditional meal, eaten in many religious and nati
 
 Once you have followed the installation functions in the main [README](https://github.com/errbufferoverfl/violet-lobster/blob/main/README.md#installation) you can use the following instractions to use the longest kebab generation service:
 
-1. Navigate to http://localhost:7071/api/
+1. Navigate to http://localhost:7071/api/tartmak
 
 2. Append a query string using a browser or an API tool like Postman like so:
 ```sh
