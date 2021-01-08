@@ -38,7 +38,8 @@ These are my soltutions to Microsoft's 2020 Seasons of Serverless challenges, ea
 |------|-----------|----------|----------------|--------|
 | 1    | [The Perfect Holiday Turkey 🦃](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-23-2020.md) | [Github Solution](https://github.com/errbufferoverfl/violet-lobster/tree/main/week-01) | <img src="imgs/turkey-recipe.PNG" alt="Image of Product" width="200"> | [README](https://github.com/errbufferoverfl/violet-lobster/blob/main/week-01/README.md) |
 | 2    | [Lovely Ladoos 💞](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Nov-30-2020.md) | [Detecting Lovely Ladoos Demo](https://stglovelyladoostest.z8.web.core.windows.net/) | <img src="imgs/lovely-ladoo.png" alt="Image of Product" width="200"> | [README](https://github.com/errbufferoverfl/violet-lobster/blob/main/week-02/README.md) |
-
+| 3    | [Longest Kebab 🥙](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Dec-7-2020.md) | [Flexitarian Demo](https://longest-kebab.azurewebsites.net/api/tartmak?type=flexitarian&weight=200) [Vegan Demo](https://longest-kebab.azurewebsites.net/api/tartmak?type=vegan&weight=200)  | <img src="imgs/longest-kebab.png" alt="Image of Product" width="200"> | [README](https://github.com/errbufferoverfl/violet-lobster/blob/main/week-03/README.md) |
+| 4    | [Biggest BBQ 🥩](https://github.com/microsoft/Seasons-of-Serverless/blob/main/Dec-14-2020.md) | [[Biggest BBQ Demo](https://big-bbq.azurewebsites.net/api/calcbudget?budget=99999)  | <img src="imgs/biggest-bbq.png" alt="Image of Product" width="200"> | [README](https://github.com/errbufferoverfl/violet-lobster/blob/main/week-04/README.md) |
 
 ### Built With
 <!-- BUILT WITH -->
@@ -82,4 +83,4 @@ func start
 ## Usage
 <!-- USAGE -->
 
-Usage instructions can be found in each challenges directory.
+Usage instructions can be found in each challenges' directory.
