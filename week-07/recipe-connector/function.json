@@ -2,14 +2,11 @@
   "scriptFile": "__init__.py",
   "bindings": [
     {
-      "authLevel": "anonymous",
       "type": "httpTrigger",
+      "authLevel": "anonymous",
       "direction": "in",
       "name": "req",
-      "methods": [
-        "get",
-        "post"
-      ]
+      "methods": ["get", "post"]
     },
     {
       "type": "http",
@@ -17,11 +14,11 @@
       "name": "$return"
     },
     {
-      "type": "twilioSms",
+      "type": "sendGrid",
+      "name": "sendGridMessage",
       "direction": "out",
-      "name": "message",
-      "accountSidSetting": "TwilioAccountSid",
-      "authTokenSetting": "TwilioAuthToken"
+      "apiKey": "SendGrid_API_Key",
+      "from": "noreply@errbufferoverfl.me"
     }
   ]
 }
